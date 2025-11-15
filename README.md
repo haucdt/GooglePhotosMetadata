@@ -42,7 +42,7 @@ This ensures that photos and videos retain their original shooting dates and loc
 |------------|------------|
 | JPEG (.jpg, .jpeg) | ✅ Yes |
 | HEIC / HEIF | ✅ Yes |
-| PNG / GIF / WEBP --- |
+| PNG / GIF / WEBP| ✅ Yes |
 | MP4 | ✅ Yes |
 | MOV | ✅ Yes |
 
